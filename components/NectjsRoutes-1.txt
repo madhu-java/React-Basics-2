@@ -1,0 +1,4 @@
+<Link>
+<Redirect/>: Not present
+this.props.history.push(pathName) :-> Router.push(pathName)
+No Seperate File for Routing
